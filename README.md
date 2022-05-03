@@ -24,7 +24,7 @@
 ![Fintech_Streamlit](https://user-images.githubusercontent.com/95944553/166399873-d716fd11-5a23-45c7-b538-8fdab5d917c0.png)
 
 ---
-# Take a screenshot of your address balance and history on Ganache.
+## Take a screenshot of your address balance and history on Ganache.
 ![Ganache_Movement](https://user-images.githubusercontent.com/95944553/166399890-4705e5cd-4329-411a-9c9a-afbcd45d3104.png)
 
 ---
